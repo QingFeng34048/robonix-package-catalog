@@ -76,6 +76,12 @@ packages:
 
   - name: robonix.skill.dual_piper_transfer
     repo: https://github.com/syswonder/skill-dual-piper-transfer-rbnx
+  - name: robonix.skill.deployment_data_collection
+    repo: https://github.com/QingFeng34048/Robonix-Skill-dataset_collect/tree/main
+  - name: robonix.skill.deployment_data_coversion
+    repo: https://github.com/QingFeng34048/Robonix-Skill-dataset_convert/tree/main
+  - name: robonix.skill.adaptive_fine-tuning_for_deployment
+    repo: https://github.com/QingFeng34048/Robonix-Skill-openvla_finetune/tree/main
 
 robots:
   - name: robonix.robot.agilex.ranger_mini_v3
